@@ -1,0 +1,8 @@
+[package]
+name = "Generators_of_an_additive_Group_Z_n_with_num_bigint"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-bigint = "0.4"
+num-traits = "0.2"
